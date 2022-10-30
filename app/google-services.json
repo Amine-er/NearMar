@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827616247557",
+    "project_id": "nearmar-fd21b",
+    "storage_bucket": "nearmar-fd21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827616247557:android:23c321f26ae1cd3266c16c",
+        "android_client_info": {
+          "package_name": "com.example.nearmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827616247557-lqvd1j6h049bgfa72gp7tjcqboipgh91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nearmar",
+            "certificate_hash": "0638e27f0805f5b7b2f55033e44027fe07b172ad"
+          }
+        },
+        {
+          "client_id": "827616247557-7mma3fpl2suc4mscd6rj6v11evn7in3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMvTSKCzg6HoPk2niUNnnpo9UPQ_oCE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827616247557-7mma3fpl2suc4mscd6rj6v11evn7in3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
